@@ -1,0 +1,69 @@
+{
+    "bulb": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+    },
+    "camera": {
+        "precision": 0.3333333333333333,
+        "recall": 0.008695652173913044,
+        "f1-score": 0.01694915254237288,
+        "support": 115.0
+    },
+    "computer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+    },
+    "mobile": {
+        "precision": 0.9090909090909091,
+        "recall": 0.43478260869565216,
+        "f1-score": 0.5882352941176471,
+        "support": 23.0
+    },
+    "motion_sensor": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+    },
+    "other": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+    },
+    "router": {
+        "precision": 1.0,
+        "recall": 0.002325581395348837,
+        "f1-score": 0.004640371229698376,
+        "support": 860.0
+    },
+    "speaker": {
+        "precision": 0.051470588235294115,
+        "recall": 0.7777777777777778,
+        "f1-score": 0.09655172413793102,
+        "support": 9.0
+    },
+    "switch": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "accuracy": 0.020750988142292492,
+    "macro avg": {
+        "precision": 0.3659883145177263,
+        "recall": 0.24706462444918798,
+        "f1-score": 0.1895973935586277,
+        "support": 1012.0
+    },
+    "weighted avg": {
+        "precision": 0.9097882011230651,
+        "recall": 0.020750988142292492,
+        "f1-score": 0.021085226365475045,
+        "support": 1012.0
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "computer": {
+        "precision": 0.33962264150943394,
+        "recall": 0.05263157894736842,
+        "f1-score": 0.09113924050632911,
+        "support": 342.0
+    },
+    "mobile": {
+        "precision": 0.3170731707317073,
+        "recall": 0.12871287128712872,
+        "f1-score": 0.18309859154929578,
+        "support": 101.0
+    },
+    "router": {
+        "precision": 0.31746031746031744,
+        "recall": 0.25,
+        "f1-score": 0.27972027972027974,
+        "support": 80.0
+    },
+    "smart_bulb": {
+        "precision": 0.047619047619047616,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.08805031446540881,
+        "support": 12.0
+    },
+    "smart_camera": {
+        "precision": 0.52,
+        "recall": 0.12807881773399016,
+        "f1-score": 0.20553359683794467,
+        "support": 203.0
+    },
+    "smart_motion_sensor": {
+        "precision": 0.6062992125984252,
+        "recall": 0.5746268656716418,
+        "f1-score": 0.5900383141762452,
+        "support": 134.0
+    },
+    "smart_printer": {
+        "precision": 0.07881773399014778,
+        "recall": 0.7272727272727273,
+        "f1-score": 0.14222222222222222,
+        "support": 22.0
+    },
+    "smart_speaker": {
+        "precision": 0.21890547263681592,
+        "recall": 0.5569620253164557,
+        "f1-score": 0.3142857142857143,
+        "support": 79.0
+    },
+    "smart_switch": {
+        "precision": 0.21739130434782608,
+        "recall": 0.6,
+        "f1-score": 0.3191489361702128,
+        "support": 50.0
+    },
+    "accuracy": 0.24535679374389052,
+    "macro avg": {
+        "precision": 0.2959098778770801,
+        "recall": 0.4001798021736273,
+        "f1-score": 0.24591524554818361,
+        "support": 1023.0
+    },
+    "weighted avg": {
+        "precision": 0.3820574484849021,
+        "recall": 0.24535679374389052,
+        "f1-score": 0.23245372975028475,
+        "support": 1023.0
+    }
+}

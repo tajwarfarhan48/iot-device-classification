@@ -1,0 +1,63 @@
+{
+    "computer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+    },
+    "mobile": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 23.0
+    },
+    "router": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 860.0
+    },
+    "smart_bulb": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0
+    },
+    "smart_camera": {
+        "precision": 0.0547112462006079,
+        "recall": 0.3130434782608696,
+        "f1-score": 0.09314359637774904,
+        "support": 115.0
+    },
+    "smart_printer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+    },
+    "smart_speaker": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 9.0
+    },
+    "smart_switch": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "accuracy": 0.03557312252964427,
+    "macro avg": {
+        "precision": 0.006838905775075988,
+        "recall": 0.0391304347826087,
+        "f1-score": 0.01164294954721863,
+        "support": 1012.0
+    },
+    "weighted avg": {
+        "precision": 0.006217187068250898,
+        "recall": 0.03557312252964427,
+        "f1-score": 0.010584499588380572,
+        "support": 1012.0
+    }
+}
