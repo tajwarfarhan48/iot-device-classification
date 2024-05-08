@@ -1,6 +1,6 @@
 # Intro
 
-A set of IoT-device classifiers that can detect the type of an IoT device based on link-level network traffic. This code was written for a research paper which was presented at ICISSP (International Conference on Information Systems Security and Privacy) 2024 in Rome, Italy.
+A set of IoT-device classifiers that can detect the type of an IoT device based on link-level network traffic. This code was written for a research paper which was presented at ICISSP (International Conference on Information Systems Security and Privacy) 2024 in Rome, Italy. Our novel contribution was the use of LLMs in conjunction with traditional ML models for this type of task.
 
 The paper uses two primary datasets:
 1. UNSW - A dataset of 900,000+ IoT devices by the University of New South Wales (UNSW) 
